@@ -214,7 +214,7 @@ export default function identicalDOMTrees(nodeA, nodeB) {
 }
 ```
 
-### 2. User Story - LLM Integration (Based on Round 2 codebase)
+### 2. User Story - LLM Integration (Implement on Round 2 codebase)
 
 As a user, I want to generate a text description that represents my inspiration/project and then displays it on the project details page.
 

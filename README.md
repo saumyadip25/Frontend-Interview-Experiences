@@ -78,7 +78,7 @@ Before diving into solving system design problems, it's important to strengthen 
 
 I personally followed the NamasteDev System Design course, which provides a great foundation. You can also explore other excellent resources like:
 
-**JS Café**
+- JSCafe youtube channel (system design)
 - https://www.youtube.com/@DevtoolsTech
 - https://namastedev.com/learn/namaste-frontend-system-design/hld-overview
 - https://www.youtube.com/watch?v=5vyKhm2NTfw&list=PLI9W87-Dqn7j_x6QtR6sUjycJR7nQLBqT
@@ -104,7 +104,9 @@ Focus on backend system design at a high level, don't dive too deep right away. 
 
 Read about micro-frontends and understand how they can be implemented using tools like Webpack Module Federation and Vite Module Federation. Explore tutorials and explanations on Google and YouTube to get a practical understanding of how they work in real projects.
 
-Read about web workers and service workers.
+Read about web workers and service workers. 
+
+Read and have good knowledge about canvas as this is a very important topic for senior roles.
 
 Also be prepared with 3 different projects that you have worked upon in previous companies and the challenges you faced. You should explain this properly using the STAR framework.
 

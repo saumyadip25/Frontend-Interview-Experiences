@@ -257,3 +257,14 @@ Asked when to use web workers and service workers.
 ### 5. Product Demo
 
 Then showed me the Intuit QuickBooks product which his team works on.
+
+# Overall Experience
+
+- The interview experience was very good. I really liked the interviewers as they were calm, polite and collaborative.
+- The final verdict was YES but I was offered a SWE-2 role (one level demotion).
+- I was very tired because Round 2 to Round 5 happened on same day with a gap of 10 minutes.
+- I think it was SWE-2 because:
+  - I could not write the tests properly as I lost the practice after joining Fairmatic
+  - In Round 4, I made a mistake which looked bad
+  - I did not use Server-Sent Events (SSE) for the LLM based question
+  - Based on the projects discussion, the EM thought I have not worked on scale and decided to offer me SWE-2 role so that I can grow there as an SSE

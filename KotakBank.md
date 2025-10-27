@@ -62,7 +62,7 @@ Given a reference UI design, recreate it using HTML and CSS on CodeSandbox. The 
 
 ---
 
-## Round 2: System Design + Frontend Fundamentals (Bar Raiser Round)
+## Round 2: System Design + Frontend Fundamentals (Conducted by Bar Raiser [Third Party])
 
 **Duration:** 60 minutes
 

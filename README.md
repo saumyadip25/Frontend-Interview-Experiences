@@ -129,3 +129,54 @@ If you're a beginner, start by solving problems topic-wise, beginning with easy 
 In most interviews, hard-level problems are rare. Typically, you'll be asked medium to slightly hard questions.
 
 Hard problems are usually seen in senior-level interviews at certain companies like PayPal, Quince, and Google (based on what I've heard).
+
+
+## IMPORTANT TOPICS -
+
+1. Understand these important concepts:
+
+- Data structures: Arrays, Maps, Stacks, Trees, Sets
+- HTML: Semantic HTML, Form validation, Form submission
+- CSS: Box model, Selectors, Specificity, Positioning, Units, Flexbox, Grid, CSS custom properties (variables)
+- JavaScript​: Closures, Callbacks, Promise, async/await, this keyword
+- DOM: DOM traversal, DOM creation, DOM manipulation, Accessing element/node properties, Event delegation
+- Runtime APIs: setTimeout(), setInterval(), fetch()
+- Accessibility: ARIA roles, States & properties, Keyboard interactions
+- React: useState, useEffect, useRef, Designing component state, Controlled vs uncontrolled, Event handling, Forms
+- Rendering: SSR, CSR, SSG
+- State management
+
+2. Practice these JavaScript questions:
+
+- Debounce: https://lnkd.in/gs-f9jcP
+- Classnames: https://lnkd.in/gtqadcR4
+- Flatten: https://lnkd.in/gQuh7JuE
+- Throttle: https://lnkd.in/g-528va2
+- Promise.all: https://lnkd.in/gHxEydem
+- Deep Clone: https://lnkd.in/g5Bn2wMV
+- Event Emitter: https://lnkd.in/gnfc3WtW
+- Map Async Limit: https://lnkd.in/gMtk8qrq
+- Deep Equal: https://lnkd.in/gq4psMYF
+- Memoize: https://lnkd.in/gWHM-ku9
+- Curry: https://lnkd.in/g48WfADC
+
+3. Practice these React questions:
+
+- Todo List: https://lnkd.in/gaZ6NJmd
+- Contact Form: https://lnkd.in/gtNHef6T
+- Job Board: https://lnkd.in/giHeiXh2
+- Accordion: https://lnkd.in/gSZYFQA5
+- Image Carousel: https://lnkd.in/gnxWuVxe
+- Data Table: https://lnkd.in/gwfqzfm6
+- File Explorer: https://lnkd.in/gU898hpr
+- Tic-tac-toe: https://lnkd.in/gc7upPZS
+- Nested Checkboxes: https://lnkd.in/gfgtJHue
+
+4. Study these system design questions:
+
+- News Feed: https://lnkd.in/ghztHc-h
+- Autocomplete: https://lnkd.in/g2DGsbFT
+- Airbnb: https://lnkd.in/gqmmW-4f
+- E-commerce (Amazon): https://lnkd.in/gyDsEZJe
+- Pinterest: https://lnkd.in/ggqxAvbe
+- Google Docs: https://lnkd.in/gRySFP82

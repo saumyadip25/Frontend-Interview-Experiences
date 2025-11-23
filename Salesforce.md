@@ -148,5 +148,4 @@
 
 ## Final Verdict: OFFER ACCEPTED
 
-**Team:** Slack
 
